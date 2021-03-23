@@ -35,4 +35,4 @@ To apply personal changes,
 see useful links
 
 ## BASED ON
-- [react-ionic template](https://github.com/skullfrac/react-ionic-template)
+- [react-ionic template](https://github.com/wibed/react-ionic-template)
